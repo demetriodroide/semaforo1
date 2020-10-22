@@ -1,5 +1,5 @@
 .ambar {
-    color:orange;
+    background-color: orange;
 }
 
 .verde {
@@ -10,20 +10,11 @@
     background-color: red;
 }
 
-.negro1 {
+.negro {
     background-color: black;
 }
-
-.negro2 {
-    background-color: black;
-}
-
-.negro3 {
-    background-color: black;
-}
-
 
 div {
     border: 1px solid black;
-    margin: 20px;
+    margin: 10px;
 }
